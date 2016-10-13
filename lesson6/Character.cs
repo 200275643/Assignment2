@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+/**
+ * Name: Chandra Gundam
+ * Date: Oct 13 2016
+ * */
 
 namespace lesson6
 {
